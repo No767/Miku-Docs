@@ -4,9 +4,10 @@
 
 # Miku
 
+![GitHub](https://img.shields.io/github/license/No767/Miku-Docs?label=License&logo=github)
+
 The official docs for Miku - A Multipurpose bot focused on simplicity, speed and efficiency
 
-![GitHub](https://img.shields.io/github/license/No767/Miku-Docs?label=License&logo=github)
 
 <div align=left>
 
