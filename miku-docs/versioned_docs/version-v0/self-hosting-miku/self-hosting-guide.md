@@ -5,7 +5,7 @@ sidebar_position: 2
 
 This tutorial will help you guide through the process of installing Miku using Docker.
 
-# Requirements
+## Requirements
 
 In order to host your own version of Miku, you'll need a couple of services installed:
 
@@ -14,7 +14,7 @@ In order to host your own version of Miku, you'll need a couple of services inst
 - [Git](https://git-scm.com/)
 - [psql](https://www.postgresql.org/docs/current/app-psql.html)
 
-# Standalone Requirements
+### Standalone Requirements
 
 If you are hosting Miku standalone, you'll also need the follow:
 
@@ -26,7 +26,7 @@ If you are using Docker Desktop, then Docker Compose along with Docker CLI has b
 
 :::
 
-# Installation Instructions
+## Installation Instructions
 
 Miku does push to 2 different Docker Registries: GHCR (GitHub Container Registry) and Docker Hub. Production builds are available on both registries.
 
@@ -36,7 +36,7 @@ The `edge` and `edge-*` tags are unstable, and should never be used in productio
 
 :::
 
-## Standalone (Docker CLI)
+### Standalone (Docker CLI)
 
 1. Pull the latest production build from either GHCR or Docker Hub
 
@@ -144,7 +144,7 @@ The `edge` and `edge-*` tags are unstable, and should never be used in productio
 
 12. (Optional) Check the logs of the container to make sure that nothing went wrong.
 
-## Docker Compose
+### Docker Compose
 
 1. Clone the repo
 
