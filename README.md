@@ -26,15 +26,15 @@ Dependencies:
 
 Installing dependencies:
 
-    ```bash
-    cd Miku-Docs/miku-docs && pnpm install
-    ```
+```bash
+cd Miku-Docs/miku-docs && pnpm install
+```
 
 Running the dev server:
 
-    ```bash
-    cd Miku-Docs/miku-docs && pnpm run dev
-    ```
+```bash
+cd Miku-Docs/miku-docs && pnpm run dev
+```
 
 ## Thanks
 
